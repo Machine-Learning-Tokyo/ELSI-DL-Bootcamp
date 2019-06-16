@@ -5,13 +5,14 @@ Intro to Machine Learning and Deep Learning for Earth-Life Sciences
 
 ### [ML Research Project Management](https://docs.google.com/presentation/d/1y4v1WdDILWbbqPQzEO8W4v33dVoCFl5I_04dTFyJZoE/edit?usp=sharing)
 
-### Intro to Deep Learning
+### [Intro to Deep Learning](https://docs.google.com/presentation/d/1V-O6DAKWkRUGpBT2PvB5LQ2X1BJMUOxwZupKhLQpXb8/edit?usp=sharing)
 
 ## Notebooks
 
-### Exploratory Data Analysis
+### [Exploratory Data Analysis](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp/blob/master/Data_Exploration_and_Visualization.ipynb)
 
-### Train a Convolutional Neural Network
+### [Train a Convolutional Neural Network](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp/blob/master/kaggle_sat.ipynb)
+
 
 **Data**: Kaggle - [DeepSat (SAT-6) Airborne Dataset](https://www.kaggle.com/crawford/deepsat-sat6)
 
