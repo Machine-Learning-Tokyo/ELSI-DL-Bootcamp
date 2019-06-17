@@ -1,0 +1,6 @@
+building,1,0,0,0,0,0
+barren_land,0,1,0,0,0,0
+trees,0,0,1,0,0,0
+grassland,0,0,0,1,0,0
+road,0,0,0,0,1,0
+water,0,0,0,0,0,1
