@@ -10,7 +10,7 @@ Intro to Machine Learning and Deep Learning for Earth-Life Sciences
 ## Notebooks
 
 ### [Exploratory Data Analysis](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp/blob/master/Data_Exploration.ipynb)
-### [Data Visualization]()
+### [Data Visualization](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp/blob/master/data_visualization.ipynb)
 ### [Train a Convolutional Neural Network](https://github.com/Machine-Learning-Tokyo/ELSI-DL-Bootcamp/blob/master/kaggle_sat.ipynb)
 
 
