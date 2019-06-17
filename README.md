@@ -6,6 +6,7 @@ Intro to Machine Learning and Deep Learning for Earth-Life Sciences
 ### [ML Research Project Management](https://docs.google.com/presentation/d/1y4v1WdDILWbbqPQzEO8W4v33dVoCFl5I_04dTFyJZoE/edit?usp=sharing)
 
 ### [Intro to Deep Learning](https://docs.google.com/presentation/d/1V-O6DAKWkRUGpBT2PvB5LQ2X1BJMUOxwZupKhLQpXb8/edit?usp=sharing)
+### [Exploring Data](https://docs.google.com/presentation/d/1Z27oJAUO_mUQWcZDyl5nu4MLPk7FF8ggeAqLdyOrIMU/edit?usp=sharing)
 
 ## Notebooks
 
